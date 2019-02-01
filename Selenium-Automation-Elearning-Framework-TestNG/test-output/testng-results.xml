@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103518" started-at="2019-01-31T20:08:39Z" finished-at="2019-01-31T20:10:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103518" started-at="2019-01-31T20:08:39Z" finished-at="2019-01-31T20:10:23Z">
+      <class name="com.training.regression.tests.AddNewPropertyTC5">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.regression.tests.AddNewPropertyTC5@47c62251]" name="setUpBeforeClass" is-config="true" duration-ms="32" started-at="2019-01-31T20:08:39Z" finished-at="2019-01-31T20:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.regression.tests.AddNewPropertyTC5@47c62251]" name="setUp" is-config="true" duration-ms="34450" started-at="2019-01-31T20:08:39Z" finished-at="2019-01-31T20:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClicknAddNewProperty()[pri:0, instance:com.training.regression.tests.AddNewPropertyTC5@47c62251]" name="ClicknAddNewProperty" duration-ms="67126" started-at="2019-01-31T20:09:14Z" finished-at="2019-01-31T20:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClicknAddNewProperty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.regression.tests.AddNewPropertyTC5@47c62251]" name="tearDown" is-config="true" duration-ms="1907" started-at="2019-01-31T20:10:21Z" finished-at="2019-01-31T20:10:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.regression.tests.AddNewPropertyTC5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
